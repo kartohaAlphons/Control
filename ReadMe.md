@@ -11,12 +11,12 @@
 
 
 ## Technologies
-- [] UIKit without storyboard
-- [] Firebase Crashlitics
-- [] Firebase Authentication
-- [] Custom views
-- [] UITests
-- [] English localization
+- [x] UIKit without storyboard
+- [ ] Firebase Crashlitics
+- [ ] Firebase Authentication
+- [x] Custom views
+- [ ] UITests
+- [ ] English localization
 
 
 ## Control  screens
