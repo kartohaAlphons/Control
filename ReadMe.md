@@ -1,12 +1,13 @@
 ![Platform: iOS](https://img.shields.io/badge/Platform-iOS-green.svg)
-#Application isn't working now! It's in progress
+
+# Application isn't working now! It's in progress
 
 # Control  Application
  This is my pet-app for time & money control
  
 # I'm going to do in this project
 ## Architectural pattern
-- [] MVP
+- [ ] MVP
 
 
 ## Technologies
@@ -18,7 +19,7 @@
 - [] English localization
 
 
-##Control  screens
+## Control  screens
 Sign up screen
 | :---------: | 
 ![](https://github.com/kartohaAlphons/Control/MediaForGitHub/passScreenshot.png)
