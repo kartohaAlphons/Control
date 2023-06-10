@@ -22,7 +22,7 @@
 ## Control  screens
 Sign up screen
 | :---------: | 
-![](https://github.com/kartohaAlphons/Control/MediaForGitHub/passScreenshot.png)
+![](https://github.com/kartohaAlphons/Control/blob/main/Control/MediaForGitHub/passScreenshot.png)
 
 **Contacts:**  
 [LinkedIn](https://www.linkedin.com/in/kartohaAlphons "https://www.linkedin.com/in/kartohaAlphons") | [Telegram](https://t.me/kartohaAlphons "@kartohaAlphons") | [Email](mailto:mr.bomber1993@gmail.com "mr.bomber1993@gmail.com")
