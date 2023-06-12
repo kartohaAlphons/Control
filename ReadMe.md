@@ -12,7 +12,7 @@
 
 ## Technologies
 - [x] UIKit without storyboard
-- [ ] Firebase Crashlitics
+- [x] Firebase Crashlitics
 - [ ] Firebase Authentication
 - [x] Custom views
 - [ ] UITests
